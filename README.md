@@ -1,7 +1,10 @@
 # 4B.Execution_of_NetworkCommands
-## AIM :Use of Network commands in Real Time environment
-## Software : Command Prompt And Network Protocol Analyzer
-## Procedure: To do this EXPERIMENT- follows these steps:
+## AIM :
+Use of Network commands in Real Time environment
+## Software :
+Command Prompt And Network Protocol Analyzer
+## Procedure:
+To do this EXPERIMENT- follows these steps:
 <BR>
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer 
 <BR>
@@ -35,7 +38,8 @@ result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 ```
 ## Output
-![trace1](https://github.com/user-attachments/assets/d8ee6c00-e5d9-4642-aedb-d1ad6f9f44be)
+![Screenshot 2025-04-30 103539](https://github.com/user-attachments/assets/7e6cbe4e-7a61-46aa-8bc5-b48bf0fcaec1)
+
 
 
 ## Result
